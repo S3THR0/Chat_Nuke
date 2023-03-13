@@ -7,7 +7,7 @@ interactive graphical user interface (GUI) that allows users to enter
 the message they want to send and the number of times they want to send it. 
 ## Installation
 Clone this repository
-git clone https://github.com/S3THR0/Chat_Nuke
+git clone https://github.com/S3THR0/Chat_Nuke.git
 and then install the required packages using pip.
 pip install -r requirements.txt
 ## Usage 
