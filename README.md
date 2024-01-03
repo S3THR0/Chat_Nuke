@@ -4,6 +4,8 @@
 
 ChatNuke is a Python application that leverages the 'pyautogui' library to send a specified message multiple times. It offers an interactive Graphical User Interface (GUI) through which users can enter the desired message and the number of repetitions.
 
+![ChatNuke](img/chatnuke.png)
+
 ## Installation
 
 To get started with ChatNuke, follow these steps:
@@ -20,5 +22,7 @@ To use ChatNuke, perform the following actions:
 3. Click the 'Send Messages' button to initiate the process.
 4. Confirm the action when prompted by the application.
 5. Once the process is complete, a message will be displayed to indicate the finishing of the operation.
+
+![Results](img/results.png)
 
 Feel free to customize your messaging experience with ChatNuke and unleash the power of automated message sending!
